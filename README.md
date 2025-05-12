@@ -109,13 +109,13 @@
 #### 1. 商店安装（推荐）
 
 ##### Chrome浏览器
-1. 访问 [Chrome网上应用店 - 隐分宝](https://chrome.google.com/webstore/detail/隐分宝/[插件ID])
+1. 访问 [Chrome网上应用店 - 隐分宝](https://chromewebstore.google.com/detail/%E9%9A%90%E5%88%86%E5%AE%9D/kagiibpabaiokolfogibbncebfmeolfa?hl=zh-CN)
 2. 点击"添加至Chrome"按钮
 3. 在弹出窗口中确认安装
 4. 安装完成后，浏览器右上角工具栏将显示隐分宝图标
 
 ##### Edge浏览器
-1. 访问 [Microsoft Edge插件商店 - 隐分宝](https://microsoftedge.microsoft.com/addons/detail/隐分宝/[插件ID])
+1. 访问 [Microsoft Edge插件商店 - 隐分宝](https://chromewebstore.google.com/detail/%E9%9A%90%E5%88%86%E5%AE%9D/kagiibpabaiokolfogibbncebfmeolfa?hl=zh-CN)
 2. 点击"获取"按钮
 3. 在弹出窗口中点击"添加扩展"
 4. 安装完成后，浏览器右上角将显示隐分宝图标
@@ -161,37 +161,30 @@
 
 ### 移动端安装
 
-#### 安卓系统
-
-##### 通过Kiwi浏览器安装（推荐）
-1. 从Google Play或应用商店下载安装[Kiwi浏览器](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser)
-2. 打开Kiwi浏览器，在地址栏输入: `chrome://extensions`
-3. 开启"开发者模式"
-4. 点击"加载已解压的扩展程序"按钮
-5. 从[GitHub发布页](https://github.com/woo-developer/yfb/releases)下载的隐分宝zip包中选择`pack`文件夹
-6. 安装完成后，可以在浏览器菜单中找到隐分宝
-
-##### 通过Yandex浏览器安装
-1. 从Google Play安装[Yandex浏览器](https://play.google.com/store/apps/details?id=com.yandex.browser)
-2. 打开Yandex浏览器，访问[Chrome网上应用店 - 隐分宝](https://chrome.google.com/webstore/detail/隐分宝/[插件ID])
-3. 点击"添加至Chrome"按钮
-4. 按照提示完成安装
-5. 安装后可以在浏览器设置的"扩展程序"中找到隐分宝
-
-##### 通过狐猴浏览器安装
+#### 通过狐猴浏览器安装（推荐）
 1. 从应用商店下载安装[狐猴浏览器](https://lemurbrowser.com/)
 2. 打开狐猴浏览器，点击右上角三点菜单
 3. 选择"扩展"选项
 4. 点击"从本地安装"按钮
-5. 从[GitHub发布页](https://github.com/woo-developer/yfb/releases)下载的隐分宝zip包中选择`pack`文件夹
+5. 从[GitHub发布页](https://github.com/woo-developer/yfb/releases)下载的隐分宝zip包，并选择解压后的文件夹
 6. 安装完成后，可以在浏览器扩展管理中找到隐分宝
+ 
+#### 通过Kiwi浏览器安装
+1. 从Google Play或应用商店下载安装[Kiwi浏览器](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser)
+2. 打开Kiwi浏览器，在地址栏输入: `chrome://extensions`
+3. 开启"开发者模式"
+4. 点击"加载已解压的扩展程序"按钮
+5. 从[GitHub发布页](https://github.com/woo-developer/yfb/releases)下载的隐分宝zip包，并选择解压后的文件夹
+6. 安装完成后，可以在浏览器菜单中找到隐分宝
 
-#### iOS系统
-由于iOS系统限制，目前无法在iOS设备上安装扩展程序。作为替代方案，您可以：
+#### 通过Yandex浏览器安装
+1. 从Google Play安装[Yandex浏览器](https://play.google.com/store/apps/details?id=com.yandex.browser)
+2. 打开Yandex浏览器，访问[Chrome网上应用店 - 隐分宝](https://chromewebstore.google.com/detail/%E9%9A%90%E5%88%86%E5%AE%9D/kagiibpabaiokolfogibbncebfmeolfa?hl=zh-CN)
+3. 点击"添加至Chrome"按钮
+4. 按照提示完成安装
+5. 安装后可以在浏览器设置的"扩展程序"中找到隐分宝
 
-1. 通过Safari浏览器访问[隐分宝网页版](https://woofootball.site/web)
-2. 将该网页添加到主屏幕，以便快速访问
-3. 使用网页版可以获得与插件类似的功能，但需要联网使用
+
 
 ### 安装后使用说明
 
@@ -220,6 +213,7 @@ A: 可以暂时关闭状态刷新网页后查看比分，之后再重新启用�
 
 - 电子邮件：woofootball@aliyun.com
 - 官方网站：[https://www.woofootball.site](https://www.woofootball.site)
+- GitHub：[https://github.com/woo-developer/yfb](https://github.com/woo-developer/yfb)
 - GitHub Issues：[提交问题或建议](https://github.com/woo-developer/yfb/issues)
 
 ## 版权和许可
