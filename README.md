@@ -33,7 +33,7 @@
 
 <div align="center">
 <a href="https://www.woofootball.site">
-  <img src="intro_img/site.png" alt="隐分宝介绍" width="900" height="400">
+  <img src="intro_img/site.png" alt="隐分宝介绍" >
 </a>
 </div>
 
@@ -110,7 +110,7 @@
 
 #### 2. 手动安装
 ##### 使用ZIP压缩包安装
-1. 访问 [GitHub发布页](https://github.com/woo-developer/yfb/releases) 下载最新版本的 `.zip` 格式插件压缩包
+1. 访问 [GitHub发布页](https://github.com/woobyte/yfb/releases) 下载最新版本的 `.zip` 格式插件压缩包
 2. 解压下载的文件到本地文件夹
 3. 打开浏览器，在地址栏输入: 
    - Chrome: `chrome://extensions`
@@ -123,7 +123,7 @@
 7. 安装完成后，隐分宝将显示在浏览器扩展列表和工具栏中
 
 ##### 使用CRX文件拖拽安装
-1. 访问 [GitHub发布页](https://github.com/woo-developer/yfb/releases) 下载最新版本的 `.crx` 格式插件文件
+1. 访问 [GitHub发布页](https://github.com/woobyte/yfb/releases) 下载最新版本的 `.crx` 格式插件文件
 2. 打开浏览器，在地址栏输入:
    - Chrome: `chrome://extensions`
    - Edge: `edge://extensions` 
@@ -137,19 +137,25 @@
 ### 移动端安装
 
 #### 通过狐猴浏览器安装（推荐）
-1. 从应用商店下载安装[狐猴浏览器](https://lemurbrowser.com/)
-2. 打开狐猴浏览器，点击右上角三点菜单
-3. 选择"扩展"选项
-4. 点击"从本地安装"按钮
-5. 从[GitHub发布页](https://github.com/woo-developer/yfb/releases)下载的隐分宝zip包，并选择解压后的文件夹
-6. 安装完成后，可以在浏览器扩展管理中找到隐分宝
+##### 1. 商店安装（推荐）
+1. 打开扩展应用，前往chrome扩展商店并搜索隐分宝
+2. 点击"添加至Chrome"按钮
+3. 在弹出窗口中确认安装
+4. 安装完成后，浏览器扩展管理将显示隐分宝图标
+
+##### 2. 本地安装
+1.从[GitHub发布页](https://github.com/woobyte/yfb/releases)下载隐分宝zip包或crx包到手机上
+2. 打开扩展应用，进入扩展管理，打开开发者模式
+3. 点击Load * .zip/*.crx.user.js file.
+4. 选择第1步中下载的安装包，进行安装
+5. 安装完成后，浏览器扩展管理将显示隐分宝图标
  
 #### 通过Kiwi浏览器安装
 1. 从Google Play或应用商店下载安装[Kiwi浏览器](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser)
 2. 打开Kiwi浏览器，在地址栏输入: `chrome://extensions`
 3. 开启"开发者模式"
 4. 点击"加载已解压的扩展程序"按钮
-5. 从[GitHub发布页](https://github.com/woo-developer/yfb/releases)下载的隐分宝zip包，并选择解压后的文件夹
+5. 从[GitHub发布页](https://github.com/woobyte/yfb/releases)下载的隐分宝zip包，并选择解压后的文件夹
 6. 安装完成后，可以在浏览器菜单中找到隐分宝
 
 #### 通过Yandex浏览器安装
@@ -194,8 +200,8 @@ A: 可以暂时关闭状态刷新网页后查看比分，之后再重新启用�
 
 - 电子邮件：woofootball@aliyun.com
 - 官方网站：[https://www.woofootball.site](https://www.woofootball.site)
-- GitHub：[https://github.com/woo-developer/yfb](https://github.com/woo-developer/yfb)
-- GitHub Issues：[提交问题或建议](https://github.com/woo-developer/yfb/issues)
+- GitHub：[https://github.com/woobyte/yfb](https://github.com/woobyte/yfb)
+- GitHub Issues：[提交问题或建议](https://github.com/woobyte/yfb/issues)
 
 ## 版权和许可
 
