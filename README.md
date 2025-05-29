@@ -98,7 +98,7 @@
 ## 安装指南
 
 ### PC端安装
-
+                                                 
 #### 1. 商店安装（推荐）
 
 ##### Chrome浏览器
@@ -151,19 +151,10 @@
 5. 安装完成后，浏览器扩展管理将显示隐分宝图标
  
 #### 通过Kiwi浏览器安装
-1. 从Google Play或应用商店下载安装[Kiwi浏览器](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser)
-2. 打开Kiwi浏览器，在地址栏输入: `chrome://extensions`
-3. 开启"开发者模式"
-4. 点击"加载已解压的扩展程序"按钮
-5. 从[GitHub发布页](https://github.com/woobyte/yfb/releases)下载的隐分宝zip包，并选择解压后的文件夹
-6. 安装完成后，可以在浏览器菜单中找到隐分宝
+ 请参考狐猴浏览器安装方式
 
 #### 通过Yandex浏览器安装
-1. 从Google Play安装[Yandex浏览器](https://play.google.com/store/apps/details?id=com.yandex.browser)
-2. 打开Yandex浏览器，访问[Chrome网上应用店 - 隐分宝](https://chromewebstore.google.com/detail/%E9%9A%90%E5%88%86%E5%AE%9D/kagiibpabaiokolfogibbncebfmeolfa?hl=zh-CN)
-3. 点击"添加至Chrome"按钮
-4. 按照提示完成安装
-5. 安装后可以在浏览器设置的"扩展程序"中找到隐分宝
+ 请参考狐猴浏览器安装方式
 
 
 
