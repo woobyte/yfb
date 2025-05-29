@@ -117,6 +117,9 @@
    - Edge: `edge://extensions` 
    - 360浏览器: `se://extensions`
    - QQ浏览器: `qqbrowser://extensions`
+   - opera浏览器: `opera://extensions`
+   - 猎豹浏览器: `liebao://extensions/`
+   - 搜狗浏览器: `se://extensions/`
 4. 开启右上角的"开发者模式"
 5. 点击"加载已解压的扩展程序"按钮
 6. 选择步骤2中解压的文件夹
@@ -129,6 +132,9 @@
    - Edge: `edge://extensions` 
    - 360浏览器: `se://extensions`
    - QQ浏览器: `qqbrowser://extensions`
+   - opera浏览器: `opera://extensions`
+   - 猎豹浏览器: `liebao://extensions/`
+   - 搜狗浏览器: `se://extensions/`
 3. 开启右上角的"开发者模式"
 4. 将下载的 `.crx` 文件直接拖拽到浏览器扩展页面中
 5. 在弹出的确认窗口中点击"添加扩展程序"
