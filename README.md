@@ -56,8 +56,8 @@
 <div align="center">
   <img src="intro_img/宣传图2.png" alt="隐分宝功能展示" width="800">
 </div>
-
 ## 效果预览
+
 - pc端
 
 <div align="center">
@@ -98,7 +98,7 @@
 ## 安装指南
 
 ### PC端安装
-                                                 
+
 #### 1. 商店安装（推荐）
 
 ##### Chrome浏览器
@@ -109,23 +109,6 @@
 
 
 #### 2. 手动安装
-##### 使用ZIP压缩包安装
-1. 访问 [GitHub发布页](https://github.com/woobyte/yfb/releases) 下载最新版本的 `.zip` 格式插件压缩包
-2. 解压下载的文件到本地文件夹
-3. 打开浏览器，在地址栏输入: 
-   - Chrome: `chrome://extensions`
-   - Edge: `edge://extensions` 
-   - 360浏览器: `se://extensions`
-   - QQ浏览器: `qqbrowser://extensions`
-   - opera浏览器: `opera://extensions`
-   - 猎豹浏览器: `liebao://extensions/`
-   - 搜狗浏览器: `se://extensions/`
-4. 开启右上角的"开发者模式"
-5. 点击"加载已解压的扩展程序"按钮
-6. 选择步骤2中解压的文件夹
-7. 安装完成后，隐分宝将显示在浏览器扩展列表和工具栏中
-
-##### 使用CRX文件拖拽安装
 1. 访问 [GitHub发布页](https://github.com/woobyte/yfb/releases) 下载最新版本的 `.crx` 格式插件文件
 2. 打开浏览器，在地址栏输入:
    - Chrome: `chrome://extensions`
@@ -150,12 +133,13 @@
 4. 安装完成后，浏览器扩展管理将显示隐分宝图标
 
 ##### 2. 本地安装
-1.从[GitHub发布页](https://github.com/woobyte/yfb/releases)下载隐分宝zip包或crx包到手机上
+1.从[GitHub发布页](https://github.com/woobyte/yfb/releases)下载隐分宝crx安装包到手机
+
 2. 打开扩展应用，进入扩展管理，打开开发者模式
 3. 点击Load * .zip/*.crx.user.js file.
 4. 选择第1步中下载的安装包，进行安装
 5. 安装完成后，浏览器扩展管理将显示隐分宝图标
- 
+
 #### 通过Kiwi浏览器安装
  请参考狐猴浏览器安装方式
 
@@ -202,7 +186,7 @@ A: 可以暂时关闭状态刷新网页后查看比分，之后再重新启用�
 
 ## 版权和许可
 
-© 2025 隐分宝开发团队。保留所有权利。
+© 2025 隐分宝开发者（代码铲屎官膨胀）。保留所有权利。
 
 此插件为原创软件，未经授权不得复制、修改或发布。
 
